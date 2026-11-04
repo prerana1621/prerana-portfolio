@@ -232,9 +232,6 @@ export default function Portfolio() {
                 <span>01 / 01</span>
               </div>
             </div>
-            <div className="hero__art-index">
-              FIG. 01 — FROM MOLECULES TO MODULES
-            </div>
           </div>
         </div>
         <div className="hero__bottom page-shell">
